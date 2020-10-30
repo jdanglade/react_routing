@@ -17,8 +17,9 @@ nav {
   justify-content: space-around;
   align-items: center;
   list-style: none;
+  color: "white";
 }
 
-nav ul li {
-  color: "white";
+.link {
+  color: white;
 }
